@@ -26,3 +26,36 @@ li a:hover {
   background-color: goldenrod;
   color: black;
 }
+
+/* article {
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-flow: row wrap;
+} */ 
+
+section {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 25px;
+}
+
+.card-container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+}
+
+.card {
+margin: 10px;
+border: 1px solid black;
+}
+
+.card img {
+  height: 200px;
+}
+
+.card h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
